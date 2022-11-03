@@ -1,5 +1,5 @@
 
-![Vaibhav's GitHub Banner](./assets/a.png)
+![Vaibhav's GitHub Banner](./assets/github.png)
 
 
 <h3 align="center">A passionate frontend developer from India</h3>
