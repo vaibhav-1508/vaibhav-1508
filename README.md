@@ -19,10 +19,13 @@
 
 <h3 align="center">GitHub Stats:</h3>
 
-![](https://github-readme-stats.vercel.app/api?username=vaibhav-1508&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vaibhav-1508&theme=tokyonight&hide_border=false)<br/>
+<div align="center">
+  
+![](https://github-readme-stats.vercel.app/api?username=vaibhav-1508&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/> <br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vaibhav-1508&theme=tokyonight&hide_border=false)<br/> <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-1508&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+</div>
 
 
 
